@@ -1,5 +1,11 @@
 /*basic starting point for the electron simulator 2015 physics engine*/
-
+/* =================================================================
+ * Title: Fyxix Engine
+ * Authors: People
+ * Date: Today
+ * Desc: Does things
+ * =================================================================
+ */
 #include <string>
 #include <vector>
 #include <cmath>
@@ -8,8 +14,8 @@ using namespace std;
 
 namespace physics
 {
-	double k; //vlaue of k
-	double g; //value of g
+	const double k = 1; //vlaue of k
+	const double g = 1; //value of g
 	// other contants here, based on unit system or just arbatrarily doing stuff
 	class item
 	{
