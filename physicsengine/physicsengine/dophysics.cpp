@@ -6,71 +6,14 @@
  * Desc: Does things
  * =================================================================
  */
-#include <string>
-#include <vector>
-#include <cmath>
 
-using namespace std;
-
+/*
 namespace physics
 {
 	const double k = 1; //vlaue of k
 	const double g = 1; //value of g
 	// other contants here, based on unit system or just arbatrarily doing stuff
-	class item
-	{
-		vector<int> position;
-		vector<double> velocity;
-		vector<double> acceleration;
-		double mass;
-		int charge;
-		int itemid;
-	public:
-		vector<int> getposition()
-		{
-			return position;
-		}
-		void setposition(vector<int> posit)
-		{
-			position = posit;
-		}
-		int getitemid()
-		{
-			return itemid;
-		}
-		void setitemid(int itemident)
-		{
-			itemident = itemid;
-		}
-		int getcharge()
-		{
-			return charge;
-		}
-		void setcharge(int chargetoset)
-		{
-			charge = chargetoset;
-		}
-		double getmass() 
-		{
-			return mass;
-		}
-		void setmass(double masstoset)
-		{
-			mass = masstoset;
-		}
-		vector<double> getvelocity()
-		{
-			return velocity;
-		}
-		void setvelocity(vector<double> newv)
-		{
-			velocity = newv;
-		}
-		vector<double> getaccel()
-		{
-			return acceleration;
-		}
-	};
+	
 	class positionalgrid
 	{
 		// first vector stores x cord, second stores y cord, and third stores spacial properties
@@ -135,3 +78,4 @@ namespace physics
 		return accel;
 	}
 }
+*/

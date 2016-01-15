@@ -111,6 +111,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dophysics.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="PhysicsObject.cpp" />
+    <ClCompile Include="PositionalGrid.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="PhysicsObject.h" />
+    <ClInclude Include="PositionalGrid.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

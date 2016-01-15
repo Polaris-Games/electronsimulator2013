@@ -1,2 +1,8 @@
-﻿  dophysics.cpp
-LINK : fatal error LNK1561: entry point must be defined
+﻿  PhysicsObject.cpp
+  Generating Code...
+  Compiling...
+  PositionalGrid.cpp
+c:\users\thomas\source\repos\electronsimulator2013\physicsengine\physicsengine\positionalgrid.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  physicsengine.vcxproj -> C:\Users\Thomas\Source\Repos\electronsimulator2013\physicsengine\Debug\physicsengine.exe
+  physicsengine.vcxproj -> C:\Users\Thomas\Source\Repos\electronsimulator2013\physicsengine\Debug\physicsengine.pdb (Partial PDB)
